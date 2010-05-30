@@ -54,3 +54,4 @@
 						</ul>
 					</div>
 				</div>
+       <a href="http://github.com/konrad"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png" alt="Fork me on GitHub" /></a>
